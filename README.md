@@ -1,3 +1,4 @@
+![devops-roadmap](https://github.com/Prakharsvnit/DevOps-Roadmap/assets/19989448/882629bb-cdf5-48d4-bce7-1c2ac0dbb8f1)
 # DevOps Roadmap 2023.
 
 This is a step-by-step guide on how to become a DevOps engineer, with links to relevant learning resources.
